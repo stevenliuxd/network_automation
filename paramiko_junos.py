@@ -10,7 +10,7 @@ router_1 = {'hostname': '169.254.38.10', 'port': '22', 'username': 'root', 'pass
 
 # Delay parameters
 short = 2
-medium = 5
+medium = 6
 long = 20
 
 # Connect to device
